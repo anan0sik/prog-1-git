@@ -1,1 +1,1 @@
-# Mans pirmais git projekts s
+# Mans pirmais git projekts
